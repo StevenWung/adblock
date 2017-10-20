@@ -1,3 +1,4 @@
+! AiZhan 
 blog.csdn.net##DIV[class="tracking-ad"]
 www.sass.hk##DIV[class="gg"]
 www.aizhan.com##DIV[id="cha_bot_content"]
@@ -5,3 +6,19 @@ www.aizhan.com##div[id='con_bot_content']
 www.aizhan.com##div[id='cha_side_thumb']
 www.aizhan.com##div[class='thumb']
 www.aizhan.com##div[id='cha_top_content']
+www.aizhan.com##div[class='top-azone azone']
+
+! Dy 
+http://jsjs.nthyn.com/*
+https://ss2.a.he2d.com/*
+http://d3d.3dwwwgame.com/*
+http://ss2.a.he2d.com/*
+www.xiacai.com##DIV[class="bd"]
+www.dy2018.com##DIV[id="BAIDU_DUP_fp_wrapper"]
+www.dy2018.com##A[href*="www.xiacai.com"]
+www.dy2018.com##A[href*="jjyx.com"]
+www.dy2018.com##IFRAME
+www.dytt8.net##IFRAME
+www.dytt8.net##DIV[id="cs_right_bottom"]
+www.dytt8.net##DIV[id="cs_left_couplet"]
+www.dytt8.net##DIV[id="cs_right_couplet"]
