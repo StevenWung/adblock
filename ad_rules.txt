@@ -1,48 +1,37 @@
-<<<<<<< .mine
-! AiZhan 
-=======
-/* AiZhan */
->>>>>>> .theirs
+127.0.0.1##IMG[src="new/img/title.png"]
+202.115.113.120##A[class="logo"]
+202.115.113.120##IMG[src="new/img/title.png"]
+@@||202.115.113.120/$document
 blog.csdn.net##DIV[class="tracking-ad"]
-www.sass.hk##DIV[class="gg"]
+blog.csdn.net##DIV[id="layerd"]
+http://d3d.3dwwwgame.com/*
+http://inte.sogou.com/*
+http://j.qiqivv.com:6060/*
+http://jsjs.nthyn.com/*
+http://pop.code.mytanwan.com/*
+http://ss2.a.he2d.com/*
+http://v.hr41.cn/*
+http://www.yezilm.com/*
+https://ss2.a.he2d.com/*
+icons8.com##DIV[class="b-box"]
+icons8.com##MODAL-BACKLINK[class="c-modal-backlink"]
+note.youdao.com##DIV[class="sidebar-ft"]
+th.hujiang.com##DIV[id="uzt_footer"]
 www.aizhan.com##DIV[id="cha_bot_content"]
-www.aizhan.com##div[id='con_bot_content']
-www.aizhan.com##div[id='cha_side_thumb']
 www.aizhan.com##div[class='thumb']
-<<<<<<< .mine
-www.aizhan.com##div[id='cha_top_content']
 www.aizhan.com##div[class='top-azone azone']
-
-! Dy 
-http://jsjs.nthyn.com/*
-https://ss2.a.he2d.com/*
-http://d3d.3dwwwgame.com/*
-http://ss2.a.he2d.com/*
-www.xiacai.com##DIV[class="bd"]
-www.dy2018.com##DIV[id="BAIDU_DUP_fp_wrapper"]
-www.dy2018.com##A[href*="www.xiacai.com"]
-www.dy2018.com##A[href*="jjyx.com"]
-www.dy2018.com##IFRAME
-www.dytt8.net##IFRAME
-www.dytt8.net##DIV[id="cs_right_bottom"]
-www.dytt8.net##DIV[id="cs_left_couplet"]
-www.dytt8.net##DIV[id="cs_right_couplet"]
-=======
+www.aizhan.com##div[id='cha_side_thumb']
 www.aizhan.com##div[id='cha_top_content']
-www.aizhan.com##div[class='top-azone azone']
-
-/* Dy */
-http://jsjs.nthyn.com/*
-https://ss2.a.he2d.com/*
-http://d3d.3dwwwgame.com/*
-http://ss2.a.he2d.com/*
-www.xiacai.com##DIV[class="bd"]
-www.dy2018.com##DIV[id="BAIDU_DUP_fp_wrapper"]
-www.dy2018.com##A[href*="www.xiacai.com"]
+www.aizhan.com##div[id='con_bot_content']
+www.dy2018.com##A[href*="dajiadou6.com"]
 www.dy2018.com##A[href*="jjyx.com"]
+www.dy2018.com##A[href*="www.xiacai.com"]
+www.dy2018.com##DIV[id="BAIDU_DUP_fp_wrapper"]
 www.dy2018.com##IFRAME
-www.dytt8.net##IFRAME
-www.dytt8.net##DIV[id="cs_right_bottom"]
 www.dytt8.net##DIV[id="cs_left_couplet"]
+www.dytt8.net##DIV[id="cs_right_bottom"]
 www.dytt8.net##DIV[id="cs_right_couplet"]
->>>>>>> .theirs
+www.dytt8.net##IFRAME
+www.sass.hk##DIV[class="gg"]
+www.xiacai.com##DIV[class="bd"]
+www.dy2018.com##a[href="http://i.xcby888.com/10047/?"]
